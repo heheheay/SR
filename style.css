@@ -1,0 +1,16 @@
+    body
+		h1 {
+			font-size: 70px;
+			text-align: center;
+		}
+		h2 {
+			text-align: center;
+		}
+			color: red
+		}
+		h3 {
+			text-align: center;
+		}
+		li {
+			font-size:40px ;
+		}
